@@ -16,4 +16,7 @@ gzip -k file_name.txt
 ```bash
 tar cvzf file.tar.gz
 ```
-
+- Untar a file using :
+```bash
+tar xvzf file.tar.gz
+```

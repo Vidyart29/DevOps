@@ -14,9 +14,9 @@ gzip -k file_name.txt
 ```
 - Tape Archive (Tar) Command :
 ```bash
-tar cvzf file.tar.gz
+tar cvzf file_name.tar.gz
 ```
 - Untar a file using :
 ```bash
-tar xvzf file.tar.gz
+tar xvzf file_name.tar.gz
 ```

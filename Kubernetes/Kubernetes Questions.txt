@@ -1,0 +1,8 @@
+1. What is replica and why do we need replication controller?
+2. you can't use rc if you are planning to have a single pod?
+3. what is another functionality of rc?
+	- loadbalancing and Scaling
+4. Are RC and RS same?
+	- rc is older technology that is being replace by RS
+5. How we create a Replication Controller(defination file)?
+6. What is need of Labels and Selectors and why do we labels objects in k8s?

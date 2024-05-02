@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata: 
-  name: myapp-pod
+  name: myapp-nginx-pod
   labels: 
     app: myapp
     # costcenter:
@@ -9,5 +9,5 @@ metadata:
 spec:
   containers:
     - name: nginx-container
-      image: ngnix
+      image: nginx
 

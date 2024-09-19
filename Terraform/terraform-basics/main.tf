@@ -10,6 +10,7 @@ resource "aws_s3_bucket" "tf-name-s3-bucket" {
 
 # enable versioning by using a seperate resource
 resource "aws_s3_bucket_versioning" "tf-name-s3-bucket-versioning"{
+  # providerName_resourceType.internalName_tfName_to_refer_that_resourceType.id
   bucket = aws_s3_bucket.tf-name-s3-bucket.id
     versioning_configuration {
       status = "Enabled"

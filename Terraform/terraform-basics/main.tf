@@ -1,11 +1,17 @@
 provider "aws" {
-    region = "us-east-1"
-    version = "5.66.0"
+
 }
 
-
-# resource "terraform"
+# resource "providerName_resourceType" "internalName_tfName_to_refer_that_resourceType"
 resource "aws_s3_bucket" "tf-name-s3-bucket" {
   # this is the bucket name which will get created in aws
-  bucket = "my-tf-learn-bucket" 
+  bucket = "vidyas-tf-learn-bucket-01" 
+}
+
+# enable versioning by using a seperate resource
+resource "aws_s3_bucket_versioning" "tf-name-s3-bucket-versioning"{
+  bucket = aws_s3_bucket.tf-name-s3-bucket.id
+    versioning_configuration {
+      status = "Enabled"
+  }
 }

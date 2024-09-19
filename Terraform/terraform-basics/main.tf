@@ -16,3 +16,15 @@ resource "aws_s3_bucket_versioning" "tf-name-s3-bucket-versioning"{
       status = "Enabled"
   }
 }
+
+output "aws_s3_bucket_versioning"  {
+  value       = aws_s3_bucket.tf-name-s3-bucket.versioning[0].enabled
+  sensitive   = true
+  
+}
+output "aws_s3_bucket_complete_details" {
+  value = aws_s3_bucket.tf-name-s3-bucket
+  sensitive=true
+}
+
+

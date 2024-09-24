@@ -1,6 +1,6 @@
 variable "iam_user_name_prefix" {
-  # type        = string
-  default     = "my_iam_user"
+  type        = string # any, number, bool, list, map, set, object, tuple 
+  # default     = "my_iam_user"
   # description = "description"
 }
 

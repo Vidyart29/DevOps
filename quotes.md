@@ -1,0 +1,5 @@
+- You never know what you can do until you try.
+- Success doesn't come from what you do occasionally. It comes from what you do consistently. – Marie Forleo
+- Tell me and I forget. Teach me and I remember. Involve me and I learn.
+- All you need is the plan, the road map, and the courage to press on to your destination.
+- Success doesn’t come to you, you go to it.

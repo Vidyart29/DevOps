@@ -1,5 +1,18 @@
-
 *devops-master-class/
 *.jfif
 *.pdf
+
+# terraform excludes
+.terraform/
+*.exe
+*.tfstate
+*.tfstate.backup
+
+# extra
+*.png
+blog-corrections.md
+*.pem
+
+# notes and images folder
+Randoms/
 

@@ -3,3 +3,4 @@
 - Tell me and I forget. Teach me and I remember. Involve me and I learn.
 - All you need is the plan, the road map, and the courage to press on to your destination.
 - Success doesn’t come to you, you go to it.
+- Sometimes things aren’t clear right away. That’s where you need to be patient and persevere and see where things lead.

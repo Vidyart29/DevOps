@@ -12,6 +12,8 @@
 *.png
 blog-corrections.md
 *.pem
+*.pub
+*.csv
 
 # notes and images folder
 Randoms/

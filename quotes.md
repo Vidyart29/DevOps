@@ -4,3 +4,20 @@
 - All you need is the plan, the road map, and the courage to press on to your destination.
 - Success doesn’t come to you, you go to it.
 - Sometimes things aren’t clear right away. That’s where you need to be patient and persevere and see where things lead.
+- Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.
+- To master a new technology, you will have to play with it.
+- Success is not final, failure is not fatal: it is the courage to continue that counts.
+- Great things never came from comfort zones.
+- There is no elevator to success, you have to take the stairs.
+- Don't just think, do
+- IT'S THE will, NOT THE skill..
+- There are times to stay put, and what you want will come to you, and there are times to go out into the world and find such a thing for yourself.
+- I can and I will. Watch me.
+- In learning you will teach, and in teaching you will learn.
+- Losers visualize the penalties of failure, Winners visualize the rewards of success.
+- There is no elevator to success, you have to take the stairs.
+- Two things define you: your patience when you have nothing and your attitude when you have everything.
+- The way to get started is to quit talking and begin doing.
+- Those who hoard gold have riches for a moment. Those who hoard knowledge and skills have riches for a lifetime.
+- You don’t learn to walk by following rules. You learn by doing, and falling over.
+- 

@@ -20,4 +20,10 @@
 - The way to get started is to quit talking and begin doing.
 - Those who hoard gold have riches for a moment. Those who hoard knowledge and skills have riches for a lifetime.
 - You don’t learn to walk by following rules. You learn by doing, and falling over.
-- 
+- There is no substitute for hard work.
+- Success doesn’t come to you, you go to it.
+- Picture yourself as an indomitable power filled with positive attitude and faith that you are achieving your goals.
+- The most important thing to do in solving a problem is to begin.
+- I hear and I forget. I see and I remember. I do and I understand.
+- Excellence happens not by accident. It is a process.  – Dr. APJ. Abdul Kalam
+- Whatever we believe about ourselves and our ability comes true for us.
